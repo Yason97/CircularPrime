@@ -1,0 +1,4 @@
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\CircularPrime\CircularPrime\bin\Debug\CircularPrime.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\CircularPrime\CircularPrime\bin\Debug\CircularPrime.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\CircularPrime\CircularPrime\obj\Debug\CircularPrime.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\Applications\CircularPrime\CircularPrime\obj\Debug\CircularPrime.pdb
